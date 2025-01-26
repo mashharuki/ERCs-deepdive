@@ -12,4 +12,4 @@
 3. [GitHub EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
 4. [EIP-7702: Pectraでマージ予定の「EOAをスマートコントラクトウォレットのように扱う」提案とは？](https://zenn.dev/ryokomy/articles/4d276d070fee67)
 5. [[EIP7702] 将来のAA移行をスムーズに行いつつEIP3074を実現する仕組みを理解しよう！](https://qiita.com/cardene/items/13a828c97786aab953e4)
-6. []()
+6. [viem - EIP-7022 overview](https://viem.sh/experimental/eip7702)
